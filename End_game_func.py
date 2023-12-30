@@ -3,6 +3,7 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
 from Dataset_base import save_plaer
 # from PyGame import Global_score
+# a = 0
 
 
 class end_game_Widget(QWidget):
