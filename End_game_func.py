@@ -2,7 +2,7 @@ from PyQt5 import uic
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
 from Dataset_base import save_plaer
-from PyGame import Global_score
+# from PyGame import Global_score
 
 
 class end_game_Widget(QWidget):
@@ -20,7 +20,7 @@ class end_game_Widget(QWidget):
         self.close()
 
     def save_game(self):
-        print(Global_score)
+        # print(Global_score)
         save_plaer()
         self.close()
 # def End_game_fc(Score):
