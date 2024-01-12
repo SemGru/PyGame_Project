@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>BOXED FRUIT</string>
+   <string>ARKANOID</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QPushButton" name="Start_bottom">
@@ -72,8 +72,8 @@
    <widget class="QLabel" name="back_color">
     <property name="geometry">
      <rect>
-      <x>140</x>
-      <y>20</y>
+      <x>150</x>
+      <y>40</y>
       <width>271</width>
       <height>241</height>
      </rect>

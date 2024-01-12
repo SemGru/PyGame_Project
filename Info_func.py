@@ -12,6 +12,5 @@ class info_Widget(QWidget):
 
         self.exit_bottom.clicked.connect(self.exit_settings)
 
-
     def exit_settings(self):
         self.close()

@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>BOXED FRUITS</string>
+   <string>ARKANOID</string>
   </property>
   <widget class="QPushButton" name="pushButton">
    <property name="geometry">
@@ -63,16 +63,6 @@
    </property>
    <property name="text">
     <string>SAVE GAME</string>
-   </property>
-  </widget>
-  <widget class="QLineEdit" name="lineEdit">
-   <property name="geometry">
-    <rect>
-     <x>90</x>
-     <y>260</y>
-     <width>113</width>
-     <height>20</height>
-    </rect>
    </property>
   </widget>
  </widget>

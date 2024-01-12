@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Info</string>
+   <string>INFO</string>
   </property>
   <widget class="QLabel" name="info_header">
    <property name="geometry">
@@ -36,22 +36,20 @@
    <property name="geometry">
     <rect>
      <x>20</x>
-     <y>90</y>
+     <y>50</y>
      <width>721</width>
      <height>371</height>
     </rect>
    </property>
    <property name="text">
-    <string>Boxed fruit is a puzzle game in which the player has to put fruits in a jar,
- so that the identical ones are collected in the fruit on the level above,
- and take up less space.
- The goal of the player is to score as many points as possible by
- collecting the same fruit. If the player wants to save the score,
- he can do it by registering after the game. The player can move the fruit
- along the X-axis using the arrows on the keyboard, and to drop the
- fruit it is enough to press the space bar.
-This game was created by a developer 
-who put his heart and soul into it.</string>
+    <string>ARKANOID is a simple video game that was invented more than 38 years ago.
+Everything is simple, in the settings set the
+ parameters that will be convenient for you and start the game, the
+ movement of the platform is carried out by pressing the left and right arrows.
+Smash as many paltforma to earn as many points as possible.
+If you want to save your score, after the game you can enter your ID
+ and then find yourself in the leaderboards.
+This game was created by an interested and novice programmer.</string>
    </property>
   </widget>
   <widget class="QPushButton" name="exit_bottom">
